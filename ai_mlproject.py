@@ -11,7 +11,6 @@ Original file is located at
 
 
 
-!pip install yfinance pandas numpy matplotlib scikit-learn keras tensorflow
 
 import yfinance as yf
 
