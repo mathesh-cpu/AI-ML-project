@@ -9,7 +9,7 @@ Original file is located at
 **Setup and Data Collection**
 """
 
-!pip install streamlit pyngrok
+
 
 !pip install yfinance pandas numpy matplotlib scikit-learn keras tensorflow
 
